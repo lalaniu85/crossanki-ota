@@ -9,7 +9,7 @@ CrossAnki 是基于 **[CrossMux（0x1abin/crossmux）](https://github.com/0x1abi
 | 项目 | 说明 |
 | --- | --- |
 | 软件上游 | [0x1abin/crossmux](https://github.com/0x1abin/crossmux) |
-| 当前个人版本 | `crossanki-1.3a` |
+| 当前个人版本 | `crossanki-1.3b` |
 | 当前上游基线 | CrossMux Nightly 1512e8e #171 |
 | 上游提交 | `1512e8e049f2b1a4efc7c004a5b1a93cbc5e3f9f` |
 | 上游发布 | [CrossMux Nightly 1512e8e #171](https://github.com/0x1abin/crossmux/releases/tag/nightly-build-1512e8e049f2b1a4efc7c004a5b1a93cbc5e3f9f-171-1) |
@@ -28,7 +28,7 @@ CrossAnki 是基于 **[CrossMux（0x1abin/crossmux）](https://github.com/0x1abi
 本仓库用于公开分发编译好的个人固件、版本元数据、校验文件和 OTA 清单。个人项目源码在私人仓库维护；上游源码请访问 [CrossMux](https://github.com/0x1abin/crossmux)。
 
 - [个人固件 Releases](https://github.com/lalaniu85/crossanki-ota/releases)
-- [CrossAnki 1.3a](https://github.com/lalaniu85/crossanki-ota/releases/tag/crossanki-build-crossanki-1.3a-1512e8e-cc779e2)
+- [CrossAnki 1.3b](https://github.com/lalaniu85/crossanki-ota/releases/tag/crossanki-build-crossanki-1.3b-1512e8e-b544e83)
 - [个人 OTA 最新清单](https://github.com/lalaniu85/crossanki-ota/releases/download/crossanki-nightly/latest.json)
 
 `crossanki-nightly` 保存滚动更新清单；具体固件位于独立版本 Release。已配置此个人 OTA 渠道的设备可通过固件更新菜单检查新版本。
